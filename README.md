@@ -171,7 +171,7 @@ Consequently, the account shows a lockout warning in the fourth attempt.
    <br />
    <br />
 
-
+In the next lab we will explore some AD common issues and how to solve them as a helpdesk professional.
 
 
 
